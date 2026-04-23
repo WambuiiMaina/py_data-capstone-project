@@ -1,0 +1,31 @@
+Category,Group,Weighted_Frequency,No_Count,No_Percent,Yes_Count,Yes_Percent
+Age,15-19,3125,3054,97.71,71,2.29
+Age,20-24,3063,2818,92.01,244,7.99
+Age,25-29,2916,2476,84.91,440,15.09
+Age,30-34,2364,1837,77.72,526,22.28
+Age,35-39,2288,1705,74.53,583,25.47
+Age,40-44,1614,1084,67.14,530,32.86
+Age,45-49,1346,932,69.30,413,30.70
+Marital Status,Single,5348,4994,93.37,354,6.63
+Marital Status,Married,9319,7397,79.38,1921,20.62
+Marital Status,Divorced/Widowed/Separated,2049,1515,73.94,534,26.06
+Education,No formal education,920,869,94.48,51,5.52
+Education,Primary,6107,5098,83.49,1008,16.51
+Education,Secondary,6481,5534,85.38,947,14.62
+Education,Higher,3207,2404,74.97,803,25.03
+Wealth Index,Poor,5573,4982,89.41,590,10.59
+Wealth Index,Middle,3086,2590,83.92,496,16.08
+Wealth Index,Rich,8057,6334,78.62,1723,21.38
+Employment Status,Not employed,7913,7155,90.42,757,9.58
+Employment Status,Employed,8802,6751,76.69,2051,23.31
+Media Exposure,No,1927,1781,92.40,146,7.60
+Media Exposure,Yes,14789,12126,81.99,2663,18.01
+Residence,Urban,6850,5451,79.58,1399,20.42
+Residence,Rural,9866,8455,85.70,1410,14.30
+Geographic Zone,Coast,1497,1355,90.49,142,9.51
+Geographic Zone,North Eastern,253,247,98.02,5,1.98
+Geographic Zone,Eastern,1978,1695,85.69,283,14.31
+Geographic Zone,Western,1761,1535,87.21,225,12.79
+Geographic Zone,Rift Valley,7073,5854,82.75,1219,17.25
+Geographic Zone,Nyanza,1997,1609,80.62,387,19.38
+Geographic Zone,Nairobi,2157,1610,74.64,547,25.36
