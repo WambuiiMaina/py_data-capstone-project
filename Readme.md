@@ -13,10 +13,7 @@ This project analyzes cervical cancer screening patterns using demographic and s
 ## Tools Used
 - Python  
 - Pandas  
-- NumPy  
 - Matplotlib  
-- Seaborn   
-
 ---
 
 ## Key Insights
@@ -37,7 +34,6 @@ This project analyzes cervical cancer screening patterns using demographic and s
 ---
 
 ## Stretch Goals
-- Build an interactive dashboard (e.g., using Streamlit or Power BI)  
 - Incorporate geospatial analysis to map regional disparities   
 - Compare trends across different countries or datasets  
 
@@ -47,4 +43,4 @@ This project analyzes cervical cancer screening patterns using demographic and s
 To run this project, install the following dependencies:
 
 ```bash
-pip install pandas numpy matplotlib seaborn jupyter
+pip install pandas matplotlib jupyter
